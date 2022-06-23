@@ -1,1 +1,1 @@
-lists all the files and directories of the current directory, separated by commas
+Display current directory contents in a long format
