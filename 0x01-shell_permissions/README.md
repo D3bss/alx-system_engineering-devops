@@ -1,1 +1,1 @@
-full permission to the users
+sets the mode of the file hello
